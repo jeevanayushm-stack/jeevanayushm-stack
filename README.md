@@ -3,12 +3,12 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+YOUR_NAME;💻+YOUR_ROLE;🚀+YOUR_SPECIALIZATION;🌟+Open+to+Collaborations!;🎯+YOUR_TAGLINE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨JeevanAyush M ;💻+full stack developer;🚀+python;🌟+Open+to+Collaborations!;🎯+open to work" />
 </h1>
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/jeevan-ayush-m-18b1963a4 ">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -36,7 +36,10 @@
 
 ## 🎯 About Me
 
-YOUR_SHORT_INTRODUCTION_PARAGRAPH
+A motivated and detail-oriented BCA graduate seeking an entry-level position in Software 
+developing, IT Support. Eager to apply analytical thinking, technical skills, and problem
+solving abilities to contribute effectively to organizational goals while gaining hands-on 
+experience in a dynamic work environment.  
 
 Example:
 Passionate Full Stack Developer specializing in scalable backend systems.
@@ -47,14 +50,13 @@ Love building efficient applications and exploring AI/ML integration.
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Language 1  
-• Language 2  
-• Language 3  
+• python
+• c  
+• java  
 
 ### 🚀 Backend
-• Framework 1  
-• Framework 2  
-• Framework 3  
+• django
+ 
 
 ### 💅 Frontend
 • React / Vue / Angular  
@@ -68,8 +70,7 @@ Love building efficient applications and exploring AI/ML integration.
 
 ### ⚙️ DevOps & Tools
 • Git  
-• Docker  
-• AWS  
+• Docker 
 • Linux  
 
 ---
@@ -123,7 +124,7 @@ Love building efficient applications and exploring AI/ML integration.
 
 ## 🤝 Open to Collaborations
 
-I’m open to working on:
+I’m open to working on: web developer, full stack developer,python developer
 
 • Open Source Projects  
 • AI/ML Projects  
